@@ -1,11 +1,12 @@
 ---
 ## Author
 author:
- - name: Слабоспицкий Платон Сергеевич
-  degress: Бакалавр
+- name: Слабоспицкий Платон Сергеевич
+  degrees: Бакалавр
   orcid: 0000-0002-0877-7063
-  affiliation: 1032253559@pfur.ru
-   - name: Российский университет дружбы народов
-    country: РФ
-    postal-code: 117198
+  email: 1032253559@pfur.ru
+  affiliation:
+    - name: Российский университет дружбы народов
+      country: РФ
+      postal-code: 117198
 ---
