@@ -7,6 +7,6 @@ author:
   email: 1032253559@pfur.ru
   affiliation:
     - name: Российский университет дружбы народов
-      country: РФ
-      postal-code: 117198
+      country: Российская Федерация
+   postal-code: 117198
 ---
