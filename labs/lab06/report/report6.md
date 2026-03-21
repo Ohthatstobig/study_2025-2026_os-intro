@@ -1,5 +1,4 @@
 ---
-mainfont: "Liberation Serif"
 mainfont: "Liberation Mono"
 ## Author
 author:
