@@ -1,4 +1,6 @@
 ---
+mainfont: "Liberation Serif"
+mainfont: "Liberation Mono"
 ## Author
 author:
   name: Слабоспицкий Платон Сергеевич
